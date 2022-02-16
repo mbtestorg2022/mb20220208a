@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: new desc
+description: new desc 2
 file: https://mbtest-2021-07-30ab.s3.amazonaws.com/gdrive_uploads/mb20220208a/11jUOqO01tgRbrWHFAvKwUKIFAq0RZRHF/jellie3local1.mp4
 file_type: video/mp4
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: new title
+title: new title 2
 uid: d6532234-ab23-4f21-9cec-467eef4da0e5
 video_files:
   video_captions_file: ''
